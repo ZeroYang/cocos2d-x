@@ -3,25 +3,26 @@
 
 @image html cocos2dx_portrait.png
 
-@section sec1 About cocos2d-x
-cocos2d-x open source project is designed to be a cross-platform 2D game engine for building 2D games, demos and other graphical/interactive mobile applications.
-It runs on top of OpenGL 2.0 and OpenGL ES 2.0 and is written in C++.\n
-This project is based on the famous <A HREF="http://www.cocos2d-iphone.org">"cocos2d-iphone"</A> project.\n
+@section sec1 关于 cocos2d-x
+cocos2d-x 是一款开源框架跨平台的2D游戏引擎，用于构建2D游戏、演示和其他图形交互手机应用。
+它基于OpenGL 2.0 和 OpenGL ES 2.0，用C++编写实现。\n
+该项目是基于著名的<A HREF="http://www.cocos2d-iphone.org">"cocos2d-iphone"</A>项目实现的。\n
 
-- website:                          http://www.cocos2d-x.org/
-- forum:                            http://forum.cocos2d-x.org/
-- twitter:                          http://twitter.com/cocos2dx/
-- weibo:                            http://weibo.com/cocos2dx/
-- wiki:                             http://wiki.cocos2d-x.org/
-- show cases:                       http://www.cocos2d-x.org/games
 
-- <A HREF="http://www.cocos2d-x.org/projects/cocos2d-x/wiki/Tutorials">Tutorials of Cocos2dxSimpleGame</A>
-- <A HREF="http://www.cocos2d-x.org/projects/cocos2d-x/wiki/Installation_and_First_run">Installation and First run</A>
-- <A HREF="http://www.cocos2d-x.org/boards/6/topics/567">FAQ</A>
+- 网站:                          http://www.cocos2d-x.org/
+- 论坛:                            http://forum.cocos2d-x.org/
+- 推特:                          http://twitter.com/cocos2dx/
+- 微博:                            http://weibo.com/cocos2dx/
+- 维基:                             http://wiki.cocos2d-x.org/
+- 游戏案例:                       http://www.cocos2d-x.org/games
+
+- <A HREF="http://www.cocos2d-x.org/projects/cocos2d-x/wiki/Tutorials">Cocos2dx简单游戏教程</A>
+- <A HREF="http://www.cocos2d-x.org/projects/cocos2d-x/wiki/Installation_and_First_run">安装与运行</A>
+- <A HREF="http://www.cocos2d-x.org/boards/6/topics/567">常见问题</A>
 
 \n
 
-@section sec2 License
+@section sec2 许可协议
 Copyright (c) 2010-2012 cocos2d-x.org \n
 \n
 Permission is hereby granted, free of charge, to any person obtaining a copy \n
@@ -43,14 +44,14 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN \n
 THE SOFTWARE. \n
 \n
 
-@section sec3 Get the source code
-- Stable version: \n
+@section sec3 获取源代码
+- 稳定版: \n
     - publish at http://download.cocos2d-x.org/
-- Latest code: \n
+- 最新代码: \n
     - http://github.com/cocos2d/cocos2d-x/
 
-@section sec4 How to contribute
-- Fork our repository on github, commit your changes, and send a "pull request" to us. We will merge your contribution to master
-- Suggestion, bug fixes, and improvements are highly appreciated.
+@section sec4 如何贡献
+- 在github上Fork一份我们的仓库，提交你的修改，然后发送“pull request”给我们。我们将会合并你的贡献到代码的主干分支。
+- 非常感激参与提出建议、修复bug和改进。
 
 */
