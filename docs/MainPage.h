@@ -46,7 +46,7 @@
  
  @section sec3 获取源代码
  - 稳定版: \n
- - publish at http://download.cocos2d-x.org/
+ - 发布在 http://download.cocos2d-x.org/
  - 最新代码: \n
  - http://github.com/cocos2d/cocos2d-x/
  
