@@ -1,10 +1,10 @@
 /*!
- @mainpage cocos2d-x
+ @mainpage Cocos2d-x
  
  @image html cocos2dx_portrait.png
  
- @section sec1 关于 cocos2d-x
- cocos2d-x 是一款开源框架跨平台的2D游戏引擎，用于构建2D游戏、演示和其他图形交互手机应用。
+ @section sec1 关于 Cocos2d-x
+ Cocos2d-x 是一款开源框架跨平台的2D游戏引擎，用于构建2D游戏、演示和其他图形交互手机应用。
  它基于OpenGL 2.0 和 OpenGL ES 2.0，用C++编写实现。\n
  该项目是基于著名的<A HREF="http://www.cocos2d-iphone.org">"cocos2d-iphone"</A>项目实现的。\n
  
